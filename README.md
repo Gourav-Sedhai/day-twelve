@@ -1,2 +1,2 @@
 # day-twelve
-another new day learning new thing
+another new day, learning new thing.
